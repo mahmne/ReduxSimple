@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/mahmne/ReduxSimple.git
-> cd ReduxSimpleStarter
+> cd ReduxSimple
 > npm install
 > npm start
 ```
